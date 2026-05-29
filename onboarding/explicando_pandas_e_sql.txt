@@ -1,0 +1,21 @@
+banco de dados(SQL):
+    banco de dados é um arquivo do nosso computador que guarda informações
+    banco de dados relacionais contém um tipo de estrutura com uma relação bem estrutura, SQL é um banco de dados relacionais, é a forma mais popular
+    tabelas são tipo um arquivo de excel
+    SQL = structured query language, linguagem de busca estruturada
+    SQL é uma linguagem específica para conversar com banco de dados relacionais
+    SQL faz CRUD e algumas operações e filtros
+    SQL só consegue lidar com dados relacionados
+    SQL ainda é o mais popular, pois lida MUITO bem com os dados relacionais
+    muito comum utilizar SQL na leitura, no drop, no insert e no update
+    é comum ao pandas filtros, operações, agrupamentos
+
+
+pandas:
+    é uma biblioteca do python
+    recebe os dados e manipula
+    possue bem mais utilidades do que o SQL
+    pandas consegue lidar com diversos tipos de dados, além dos relacionados
+    diversas formas de manipular os dados
+    incrível para manipular dados
+    é comum ao SQL filtros, operações, agrupamentos
